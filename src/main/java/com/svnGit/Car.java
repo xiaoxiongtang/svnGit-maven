@@ -6,5 +6,6 @@ public class Car {
 		System.out.println("maven001");
 		System.out.println(111);
 		System.out.println(222222);
+		System.out.println(111111);
 	}
 }
