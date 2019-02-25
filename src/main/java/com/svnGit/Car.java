@@ -2,6 +2,6 @@ package com.svnGit;
 
 public class Car {
 	private void syso() {
-		System.out.println("maven2");
+		System.out.println("maven02");
 	}
 }
